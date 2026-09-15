@@ -4,3 +4,5 @@ numpy
 networkx
 neo4j
 Jinja2
+scipy
+scikit-learn
